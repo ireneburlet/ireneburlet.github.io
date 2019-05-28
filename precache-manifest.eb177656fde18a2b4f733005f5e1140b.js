@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "69f70517d28e01e32a37f2eed04859ce",
-    "url": "/img/header.69f70517.jpg"
+    "revision": "fd8dc825a233edb153a5b96b0e935f63",
+    "url": "/img/footer.fd8dc825.jpg"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/img/logoLBA.5c789733.png"
   },
   {
-    "revision": "fd8dc825a233edb153a5b96b0e935f63",
-    "url": "/img/footer.fd8dc825.jpg"
+    "revision": "69f70517d28e01e32a37f2eed04859ce",
+    "url": "/img/header.69f70517.jpg"
   },
   {
-    "revision": "32ac9e91b7d03d302a44",
-    "url": "/js/app.cfddf48f.js"
+    "revision": "044d3567fb329a132712",
+    "url": "/js/app.07e26407.js"
   },
   {
     "revision": "c49d536e71e2313d0dc2",
@@ -44,11 +44,11 @@ self.__precacheManifest = [
     "url": "/img/resetBtn.2d1e309a.svg"
   },
   {
-    "revision": "bb565fdd0215bb48eb83c5e7c09f996c",
+    "revision": "84950afda94570794f20c5e59cf9b8f4",
     "url": "/index.html"
   },
   {
-    "revision": "32ac9e91b7d03d302a44",
-    "url": "/css/app.aaddf478.css"
+    "revision": "044d3567fb329a132712",
+    "url": "/css/app.cd4e2175.css"
   }
 ];
