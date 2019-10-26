@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "fd8dc825a233edb153a5b96b0e935f63",
-    "url": "/img/footer.fd8dc825.jpg"
+    "revision": "c33f6625015382a25ab9add5cf8d4279",
+    "url": "/img/header_home.c33f6625.png"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
@@ -16,16 +16,24 @@ self.__precacheManifest = [
     "url": "/css/chunk-vendors.9b422b5e.css"
   },
   {
+    "revision": "f3ea9253d33a00c66a479ad416d7e323",
+    "url": "/img/sky_home.f3ea9253.jpg"
+  },
+  {
     "revision": "5c78973350d55a54bd9bc9cea1615a72",
     "url": "/img/logoLBA.5c789733.png"
+  },
+  {
+    "revision": "fd8dc825a233edb153a5b96b0e935f63",
+    "url": "/img/footer.fd8dc825.jpg"
   },
   {
     "revision": "69f70517d28e01e32a37f2eed04859ce",
     "url": "/img/header.69f70517.jpg"
   },
   {
-    "revision": "71a415e7c91b1b88d9e5",
-    "url": "/js/app.71dbe87b.js"
+    "revision": "7cf93681e876f96720a7",
+    "url": "/js/app.b49e0cb3.js"
   },
   {
     "revision": "afc041ca687f602ac4d3",
@@ -44,11 +52,15 @@ self.__precacheManifest = [
     "url": "/img/resetBtn.2d1e309a.svg"
   },
   {
-    "revision": "df612e54a9f1e5aa7c85d6192322c3f8",
+    "revision": "5d62a6f8d8bb6a99d0a5bbc6cb9c3c54",
+    "url": "/img/logo_home.5d62a6f8.png"
+  },
+  {
+    "revision": "7a520b654ec00cd83568d61aec921c17",
     "url": "/index.html"
   },
   {
-    "revision": "71a415e7c91b1b88d9e5",
-    "url": "/css/app.1b597165.css"
+    "revision": "7cf93681e876f96720a7",
+    "url": "/css/app.c05919ec.css"
   }
 ];
