@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.3c0a88d519f75c5abf5e01562767b9b6.js"
+  "/precache-manifest.19dedb02eb23542f91137323e4062fd1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "navigateur-alliages"});
