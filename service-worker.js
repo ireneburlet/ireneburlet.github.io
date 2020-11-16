@@ -11,13 +11,19 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.815f0a403aba97b43acfd05170757643.js"
+  "/precache-manifest.5d4ac0fa75132c5299c504620d0bf0b0.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "navigateur-alliages"});
+workbox.core.setCacheNameDetails({prefix: "voton"});
+
+self.addEventListener('message', (event) => {
+  if (event.data && event.data.type === 'SKIP_WAITING') {
+    self.skipWaiting();
+  }
+});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
@@ -25,5 +31,4 @@ workbox.core.setCacheNameDetails({prefix: "navigateur-alliages"});
  * See https://goo.gl/S9QRab
  */
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
-workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
