@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a40cb6a21efe1d7d991c01c9e82e60ed.js"
+  "/precache-manifest.325e2cbe9a682af5a33a337d5c729895.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "voton"});
